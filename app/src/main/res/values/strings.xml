@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="blinkid">BlinkID</string>
+    <string name="photopayOK">OK</string>
+    <string name="scanId">Scan ID</string>
+    <string name="app_name">Application</string>
+    <string name="loading">Loading…</string>
+    <string name="title_activity_your">YourActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main">Blink ID</string>
+
+    <string name="nothingEnabledTitle">Invalid settings</string>
+    <string name="nothingEnabledMsg">Not even one recognizer has been enabled in current settings. BlinkID cannot continue.</string>
+
+    <string name="help_msg_01">Place mobile phone above element that should be scanned and center it inside scanning frame.</string>
+    <string name="help_msg_02">When scanning is done you can edit data by tapping it.</string>
+    <string name="help_msg_03">Swipe or tap title of element that should be scanned.</string>
+
+    <string name="raw_title">Payment description</string>
+    <string name="raw_msg">Position text in this frame</string>
+
+    <string name="amount_title">Total Amount</string>
+    <string name="amount_msg">Position Total Amount in this frame</string>
+
+    <string name="iban_title">IBAN</string>
+    <string name="iban_msg">Position IBAN in this frame</string>
+
+    <string name="Label">Label</string>
+    <string name="Value">Value</string>
+    <string name="IsDataCorrect">Is all data correct?</string>
+    <string name="YesPay">Confirm data</string>
+    <string name="NoBack">Cancel</string>
+    <!-- MRTD -->
+    <string name="PPPrimaryId">Primary ID</string>
+    <string name="PPSecondaryId">Secondary ID</string>
+    <string name="PPIssuer">Issuer</string>
+    <string name="PPDateOfBirth">Date of birth</string>
+    <string name="PPDocumentNumber">Document number</string>
+    <string name="PPNationality">Nationality</string>
+    <string name="PPSex">Sex</string>
+    <string name="PPCitizenship">Citizenship</string>
+    <string name="PPDocumentCode">Document code</string>
+    <string name="PPDateOfExpiry">Date of expiry</string>
+    <string name="PPOpt1">OPT1</string>
+    <string name="PPOpt2">OPT2</string>
+    <string name="PPMRZText">MRZ text</string>
+
+    <!-- UKDL -->
+    <string name="PPFirstName">First name</string>
+    <string name="PPLastName">Last name</string>
+    <string name="PPAddress">Address</string>
+    <string name="PPPlaceOfBirth">Place of birth</string>
+    <string name="PPDriverNumber">Driver number</string>
+    <string name="PPIssueDate">Issue date</string>
+    <string name="PPExpiryDate">Expiry date</string>
+    <string name="PPIssuingAuthority">Issuing Authority</string>
+
+    <!-- Barcode -->
+    <string name="PPUncertain">Uncertain data</string>
+    <string name="PPBarcodeData">Barcode data</string>
+    <string name="PPBarcodeRawData">Barcode raw data</string>
+    <string name="PPBarcodeType">Barcode type</string>
+    <string name="PPExtendedBarcodeData">Extended barcode data</string>
+    <string name="PPSimNumber">Sim number</string>
+
+    <!-- MyKad specific -->
+    <string name="PPFullName">Full name</string>
+    <string name="PPReligion">Religion</string>
+    <string name="PPNRICNumber">National Registration Identity Card Number</string>
+
+    <!-- Singapore ID specific -->
+    <string name="PPDocumentClassification">Document classification</string>
+    <string name="PPRace">Race</string>
+    <string name="PPCountryOfBirth">Country of birth</string>
+    <string name="PPBloodGroup">Blood group</string>
+
+    <!-- Austrian ID specific -->
+    <string name="PPEyeColour">Eye colour</string>
+    <string name="PPHeight">Height</string>
+    <string name="PPPrincipalResidenceAtIssuance">Principal residence at issuance</string>
+
+    <!-- Czech ID specific -->
+    <string name="PPPersonalNumber">Personal number</string>
+    <string name="PPAuthority">Authority</string>
+
+    <!-- Slovak ID specific -->
+    <string name="PPSurnameAtBirth">Surname at birth</string>
+    <string name="PPSpecialRemarks">Special remarks</string>
+
+    <!-- iKad specific -->
+    <string name="PPEmployer">Employer</string>
+    <string name="PPPassportNumber">Passport number</string>
+    <string name="PPSector">Sector</string>
+
+    <!-- Romanian specific -->
+    <string name="PPIdentityCardNumber">Identity card number</string>
+    <string name="PPSeries">Series</string>
+    <string name="PPCNP">CNP</string>
+    <string name="PPParentNames">Parent names</string>
+    <string name="PPValidFrom">Valid from</string>
+    <string name="PPValidUntil">Valid until</string>
+</resources>
